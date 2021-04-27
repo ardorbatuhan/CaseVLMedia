@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">DemoVL</string>
+    <string name="people_list_end_error">End of the list!</string>
+</resources>
